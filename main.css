@@ -2,10 +2,12 @@
 body{
     background-image: url("/images/fonds.jpg");
     background-size: cover;
-    max-width: 500px;
+    max-width: 600px;
     font-size: 1.3rem;
 }
+header li {
 
+}
 a{
     color: white;
 }
@@ -43,3 +45,11 @@ text-shadow: 2px 2px darkred;
     text-align: left;
     color: white;
 }
+ footer{
+     color: white;
+     text-decoration: underline;
+     font-style: italic;
+ }
+ footer a{
+     color: lightblue;
+ }
