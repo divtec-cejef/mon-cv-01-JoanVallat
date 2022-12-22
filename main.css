@@ -1,20 +1,36 @@
+
 body{
     background-image: url("/images/fonds.jpg");
+    background-size: cover;
     max-width: 500px;
     font-size: 1.3rem;
 }
 
-
 a{
     color: white;
 }
-
+h1 {
+    font-family: 'Orbitron',sans-serif;
+    Color:white;
+    border-bottom: solid 5px whitesmoke;
+    text-align: left;
+}
 body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
+body h2{
+    font-family: 'Orbitron',sans-serif;
+    text-shadow: 2px 2px black;
+    color: white;
+    background-color: darkgray;
+    border: 2px black;
+}
+strong{
+text-shadow: 2px 2px darkred;
+}
 .competence{
     text-align: left;
     color: white;
