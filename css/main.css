@@ -11,7 +11,10 @@ body {
     text-align: center;
     color: black;
 }
-
+img{
+    max-width: 100%;
+    height: auto;
+}
 header ul li {
     display: inline;
     margin: 5px;
