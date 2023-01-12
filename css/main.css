@@ -1,0 +1,63 @@
+
+body {
+    background-image: url("/images/fonds.jpg");
+    background-size: cover;
+    font-weight: normal;
+    line-height: 1.4;
+    max-width: 600px;
+    font-size: 1.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
+
+header ul li {
+    display: inline;
+    margin: 5px;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+    color: white;
+    border-bottom: solid 5px whitesmoke;
+    text-align: left;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+    text-shadow: 2px 2px black;
+    color: white;
+    background-color: darkgray;
+    border: 2px black;
+}
+
+ul {
+    text-align: left;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+footer {
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+footer a {
+    color: lightblue
+}
+
+footer a:hover {
+    color: white;
+}
+
+strong {
+    text-shadow: 2px 2px darkred;
+}
