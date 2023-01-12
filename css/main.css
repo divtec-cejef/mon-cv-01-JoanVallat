@@ -5,8 +5,9 @@ body{
     max-width: 600px;
     font-size: 1.3rem;
 }
-header li {
-
+header ul li{
+display: inline;
+    margin: 5px;
 }
 a{
     color: white;
